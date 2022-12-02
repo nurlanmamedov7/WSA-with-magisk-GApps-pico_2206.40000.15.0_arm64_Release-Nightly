@@ -1,0 +1,1 @@
+# WSA-with-magisk-GApps-pico_2206.40000.15.0_arm64_Release-Nightly
